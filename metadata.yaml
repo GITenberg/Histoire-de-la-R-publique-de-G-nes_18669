@@ -1,0 +1,30 @@
+_repo: Histoire-de-la-R-publique-de-G-nes_18669
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vincens, Emile
+    aliases:
+    - Vincens, Marie-Antoine-Emile
+    - Vincens, Émile
+    birthdate: 1764
+    deathdate: 1850
+    gutenberg_agent_id: '8181'
+    url: http://www.gutenberg.org/2009/agents/8181
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2006-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18669'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Genoa (Italy) -- History'
+- !lcc 'DG'
+title: Histoire de la République de Gênes
+url: http://www.gutenberg.org/ebooks/18669
